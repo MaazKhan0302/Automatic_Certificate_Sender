@@ -7,6 +7,12 @@ Automates the generation of personalized certificates and emails them to recipie
 - Automatically email certificates.
 - Delete certificates after sending.
 
+## 🎓 Certificate Example
+
+Here is an example of the generated certificate:
+
+![Certificate Example](templates/name_added_in_certificate_preview.png)
+
 ## 🛠️ Prerequisites
 - Python 3.8 or higher.
 - SMTP email account (e.g., Gmail).
