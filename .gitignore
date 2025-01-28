@@ -1,0 +1,14 @@
+# Python-related files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Certificates or sensitive data
+*.pdf
+data/*.csv
+
+# OS and IDE files
+.DS_Store
+.vscode/
